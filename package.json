@@ -1,0 +1,30 @@
+{
+  "name": "hubot-coin",
+  "description": "A minable currency that lives in hubot",
+  "version": "0.0.1",
+  "author": "Alex Wiles <xwiles@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "currency",
+    "coin",
+    "mining"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexwiles/hubot-coin.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "main": "index.coffee"
+}
